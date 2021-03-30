@@ -1,0 +1,5 @@
+{
+  "env": {
+    "MONGO_URI": "mongodb+srv://odin:odin26819272@cluster0.voea9.mongodb.net/shop"
+  }
+}
